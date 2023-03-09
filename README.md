@@ -4,5 +4,7 @@ This was made in order to teach some juniors some basic tools and libraries used
 To run this model on your system simple copy the MNIST.py code on your system .
 
 
-#100 sports Dataset
+**100 sports Dataset**
+
+
 Image classification model built on 100 sports dataset imported from kaggle
